@@ -1,32 +1,18 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
+*.aps
+*.opensdf
+*.pyc
+*.sdf
+*.suo
+*.user
+/bin
+/build.user.bat
+/build/cov-int
+/build/Notepad2-mod.lzma
+/build/Notepad2-mod.tar
+/build/Notepad2-mod.tgz
+/build/packages
+/build/temp_zip*
+/distrib/Notepad2-mod.*.exe
+/res/Notepad2.exe.manifest
+/signinfo_notepad2-mod.txt
+/src/VersionRev.h
